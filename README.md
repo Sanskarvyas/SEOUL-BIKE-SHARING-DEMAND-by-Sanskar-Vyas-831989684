@@ -1,1 +1,2 @@
 # SEOUL-BIKE-SHARING-DEMAND-by-Sanskar-Vyas-831989684
+  I have This project, I am working on analysing the Bike sharing demand in the city of Seoul, South Korea. The dataset contains a count of public bicycles rented per hour in the Seoul Bike sharing system and also contains the weather data and holiday information. I will be visualizing the following data and drawing coorelation between the dependent varaible: Bikes rented and independent variables: temperature, precipitation time of the day, season, humidity, etc. 
